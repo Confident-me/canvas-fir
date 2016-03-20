@@ -1,0 +1,21 @@
+/*body{
+	background-image: url(../imgs/bg.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}*/
+#canvas{
+	box-shadow: 0 0 3px black;
+	display:block;
+	position:absolute;
+	left:45%;
+	top:50%;
+	margin-top:-300px;
+	margin-left:-300px;
+	
+}
+#clock-1{
+	background-image: url(../imgs/biaopan.png);
+	background-repeat: no-repeat;
+	background-size: 200px 200px;
+	background-position: 50px 50px;
+}
